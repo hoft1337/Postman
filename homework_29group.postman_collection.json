@@ -1145,8 +1145,8 @@
 									"  if (res.person.hasOwnProperty(key)) {\r",
 									"    //ключ = key\r",
 									"    //значение = res.person[key]\r",
-									"    console.log(\"Ключ = \" + key);\r",
-									"    console.log(\"Значение = \" + res.person[key]);\r",
+									"    console.log(\"Key = \" + key);\r",
+									"    console.log(\"Value = \" + res.person[key]);\r",
 									"  } // если объект person имеет key (если у person есть свойство key)\r",
 									"} // перерабрать все ключи (свойства) в объекте\r",
 									""
